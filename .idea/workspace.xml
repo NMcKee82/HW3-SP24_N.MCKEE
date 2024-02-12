@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d38e38fe-f8d8-4785-9ed1-fb89ee2cf3e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HW3-SP24_N.MCKEE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3b-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3b-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3b-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3b-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SImpson2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simpsons3.py" afterDir="false" />
-    </list>
+    <list default="true" id="d38e38fe-f8d8-4785-9ed1-fb89ee2cf3e7" name="Changes" comment="Lastest for submission" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,24 +29,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW2b-Rewrite.executor": "Debug",
-    "Python.HW3a.executor": "Debug",
-    "Python.HW3b-2.executor": "Debug",
-    "Python.HW3b-3.executor": "Debug",
-    "Python.HW3b-4.executor": "Debug",
-    "Python.HW3b-5.executor": "Debug",
-    "Python.HW3b-Rewrite.executor": "Debug",
-    "Python.HW3b.executor": "Debug",
-    "Python.SImpson2.executor": "Debug",
-    "Python._pydev_execfile.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/nmckee"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HW2b-Rewrite.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.HW3a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.HW3b-2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.HW3b-3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.HW3b-4.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.HW3b-5.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.HW3b-Rewrite.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.HW3b.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.SImpson2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nmckee&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,23 +63,36 @@
       <option name="presentableId" value="Default" />
       <updated>1707623228939</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lastest for submission">
+      <option name="closed" value="true" />
+      <created>1707761590512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707761590512</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lastest for submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lastest for submission" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW3b-3.py</url>
+          <url>file://$PROJECT_DIR$/Fails/HW3b-3.py</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW3b-3.py</url>
+          <url>file://$PROJECT_DIR$/Fails/HW3b-3.py</url>
           <line>26</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HW3b-3.py</url>
+          <url>file://$PROJECT_DIR$/Fails/HW3b-3.py</url>
           <line>41</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
