@@ -49,6 +49,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nmckee\PycharmProjects\HW3-SP24_N.MCKEE" />
       <recent name="C:\Users\nmckee\PycharmProjects\HW3-SP24_N.MCKEE\Fails" />
     </key>
   </component>
@@ -76,8 +77,35 @@
       <option name="project" value="LOCAL" />
       <updated>1707761590512</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lastest for submission">
+      <option name="closed" value="true" />
+      <created>1707761758072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707761758072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lastest for submission">
+      <option name="closed" value="true" />
+      <created>1707761865122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707761865122</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lastest for submission" />
